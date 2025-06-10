@@ -1,0 +1,6 @@
+../HAL/RGB/rgb.c:20:13:TCS34725_Write8	32	static
+../HAL/RGB/rgb.c:25:16:TCS34725_Read8	32	static
+../HAL/RGB/rgb.c:33:17:TCS34725_Read16	32	static
+../HAL/RGB/rgb.c:41:6:TCS34725_Init	24	static
+../HAL/RGB/rgb.c:53:6:TCS34725_GetRawData	24	static
+../HAL/RGB/rgb.c:62:13:detect_note	24	static

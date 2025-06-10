@@ -1,0 +1,12 @@
+../Core/Src/interrupt.c:24:6:HAL_GPIO_EXTI_Callback	16	static
+../Core/Src/interrupt.c:61:6:handle_isr0	4	static
+../Core/Src/interrupt.c:65:6:handle_isr1	4	static
+../Core/Src/interrupt.c:69:6:handle_isr2	4	static
+../Core/Src/interrupt.c:74:6:handle_isr3	4	static
+../Core/Src/interrupt.c:79:6:handle_isr4	4	static
+../Core/Src/interrupt.c:86:6:handle_isr5	4	static
+../Core/Src/interrupt.c:93:6:handle_isr6	4	static
+../Core/Src/interrupt.c:100:6:handle_isr7	4	static
+../Core/Src/interrupt.c:107:6:handle_isr8	4	static
+../Core/Src/interrupt.c:114:6:handle_isr9	4	static
+../Core/Src/interrupt.c:120:6:reset_lcd	8	static
