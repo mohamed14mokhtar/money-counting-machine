@@ -26,8 +26,9 @@ The **Money Counting Machine** is a smart embedded system designed to count Egyp
 
 ## 📸 Project Photo
 <p align="center">
-  <img src="WhatsApp Image 2025-06-12 at 19 41 22_cc41bb45" alt="Money Counting Machine Hardware" width="600"/>
+  <img src="https://github.com/user-attachments/assets/ee401eec-7032-4928-b533-1533c8e9860d" alt="Money Counting Machine Hardware" width="600"/>
 </p>
+
 
 ---
 
