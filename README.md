@@ -94,9 +94,6 @@ Total: 115 EGP
 Category: 20 EGP
 Count: 3 Notes
 
-Then cycle:
-Category: 50 EGP
-Count: 1 Notes
 ---
 
 ## 🛠️ Notes
