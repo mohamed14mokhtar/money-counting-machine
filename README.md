@@ -118,11 +118,11 @@ Count: 3 Notes
 
 | Name                      | Email                       |
 |---------------------------|-----------------------------|
-| **Mohamed Mokhtar** *(Mentor)* | mohamed.mokhtar@example.com |
-| Member 1 Name             | member1@example.com         |
-| Member 2 Name             | member2@example.com         |
-| Member 3 Name             | member3@example.com         |
-| Member 4 Name             | member4@example.com         |
-| Member 5 Name             | member5@example.com         |
-| Member 6 Name             | member6@example.com         |
-| Member 7 Name             | member7@example.com         |
+| **Mohamed Mokhtar** *(Mentor)* | mohamedmokhrat1@gmail.com |
+| Salem Kamal *(Leader)*           | salemkamal977@gmail.com         |
+| Mohamed Samir *(Co Leader)*            | Mohammedsamiragamy@gmail.com       |
+| Esraa Ashraf *(Electrical member)*            | esraaashraf2213@gmail.com        |
+| Saad  Radwan *(Electrical member)*           | saadradwan76@gmail.com        |
+| Ahmed Abbas  *(Mechanical member)*          | ahmedalabs23@gmail.com        |
+| Arwa Mohamed *(Mechanical member)*            | arwazakria2003@gmail.com         |
+| Amany Ismail *(Mechanical member)*           | amanyyasser626@gmail.com        |
