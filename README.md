@@ -125,4 +125,4 @@ Count: 3 Notes
 | Saad  Radwan *(Electrical member)*           | saadradwan76@gmail.com        |
 | Ahmed Abbas  *(Mechanical member)*          | ahmedalabs23@gmail.com        |
 | Arwa Mohamed *(Mechanical member)*            | arwazakria2003@gmail.com         |
-| Amany Ismail *(Mechanical member)*           | amanyyasser626@gmail.com        |
+| Amany Ismail *(Control member)*           | amanyyasser626@gmail.com        |
